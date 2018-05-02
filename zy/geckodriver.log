@@ -1,0 +1,363 @@
+1515221440591	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515221440615	geckodriver	INFO	Listening on 127.0.0.1:64461
+1515221443680	mozrunner::runner	INFO	Running command: "e:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MY\\AppData\\Local\\Temp\\rust_mozprofile.RdMAOPhNXRA2"
+1515221446297	Marionette	INFO	Enabled via --marionette
+1515221461779	Marionette	INFO	Listening on port 64469
+1515221462719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515221463148	Marionette	DEBUG	Register listener.js for window 4294967297
+1515221464009	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515221465586	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515221465587	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515221467821	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515221468050	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Child 10060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515221500634	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515221500662	geckodriver	INFO	Listening on 127.0.0.1:64536
+1515221503707	mozrunner::runner	INFO	Running command: "e:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MY\\AppData\\Local\\Temp\\rust_mozprofile.R0guZZ3ZZ6jK"
+1515221506144	Marionette	INFO	Enabled via --marionette
+[Child 5092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515221510279	Marionette	INFO	Listening on port 64544
+1515221511054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515221511214	Marionette	DEBUG	Register listener.js for window 4294967297
+1515221511237	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515221511521	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515221511522	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://132.121.92.224:8813/cas/gd-resource/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515221513002	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515221513317	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515221513758	Marionette	DEBUG	Received DOM event "beforeunload" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515221514742	Marionette	DEBUG	Received DOM event "pagehide" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515221514744	Marionette	DEBUG	Received DOM event "unload" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515221514765	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/telant/page/login.jsp?ticket=ST-218508-M6TsBu6Sx56AYwEFoW7R-sso.ccssoft.com"
+1515221514794	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/telant/page/login.jsp?ticket=ST-218508-M6TsBu6Sx56AYwEFoW7R-sso.ccssoft.com"
+JavaScript error: http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7, line 217: TypeError: view.get(...) is undefined
+1515221516444	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+JavaScript warning: http://132.121.92.224:8813/telant/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515221519726	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515221535049	Marionette	DEBUG	Register listener.js for window 4294967310
+1515221535278	Marionette	DEBUG	Register listener.js for window 4294967313
+1515221569680	Marionette	DEBUG	Register listener.js for window 8589934593
+JavaScript error: http://132.121.92.224:8813/BundleSmart/Main.html?userToken=13183745655, line 439: TypeError: window.event is undefined
+[Child 11224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515222863617	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515222863647	geckodriver	INFO	Listening on 127.0.0.1:57264
+1515222866754	mozrunner::runner	INFO	Running command: "E:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MY\\AppData\\Local\\Temp\\rust_mozprofile.JELlfqGlT8AF"
+1515222868948	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+1515222877191	Marionette	INFO	Listening on port 57702
+1515222877686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515222878087	Marionette	DEBUG	Register listener.js for window 4294967297
+1515222878582	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515222878937	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515222878938	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://132.121.92.224:8813/cas/gd-resource/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515222880084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+[GFX1-]: Could not get a DXGI adapter
+1515222880682	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515222881171	Marionette	DEBUG	Received DOM event "beforeunload" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515222882136	Marionette	DEBUG	Received DOM event "pagehide" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515222882138	Marionette	DEBUG	Received DOM event "unload" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515222882162	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/telant/page/login.jsp?ticket=ST-218902-5Kad02cgMHkdlKFttDKG-sso.ccssoft.com"
+1515222882175	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/telant/page/login.jsp?ticket=ST-218902-5Kad02cgMHkdlKFttDKG-sso.ccssoft.com"
+JavaScript error: http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7, line 217: TypeError: view.get(...) is undefined
+1515222883634	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+JavaScript warning: http://132.121.92.224:8813/telant/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515222886756	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515222886868	Marionette	DEBUG	Received DOM event "beforeunload" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515222887007	Marionette	DEBUG	Received DOM event "pagehide" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515222887041	Marionette	DEBUG	Received DOM event "unload" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515222887050	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1515222887051	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515222887053	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515222887156	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/BundleSmart/Main.html?userToken=4386995106"
+1515222887165	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/BundleSmart/Main.html?userToken=4386995106"
+1515223921390	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515223921421	geckodriver	INFO	Listening on 127.0.0.1:64231
+1515223924460	mozrunner::runner	INFO	Running command: "E:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MY\\AppData\\Local\\Temp\\rust_mozprofile.KMX8OMg1jtMm"
+1515223926702	Marionette	INFO	Enabled via --marionette
+[Child 7596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515223930919	Marionette	INFO	Listening on port 64239
+1515223931822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515223931958	Marionette	DEBUG	Register listener.js for window 4294967297
+1515223931982	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515223932001	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515223932005	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515223932005	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515223932058	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=http%3A//www.baidu.com/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.baidu.com%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82"
+[Child 3288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_m1515223990993	Marionette	INFO	Listening on port 64319
+1515223991995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515223992140	Marionette	DEBUG	Register listener.js for window 4294967297
+1515223992185	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515223994031	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515223994033	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515223999055	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515224002400	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515235731278	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515235731303	geckodriver	INFO	Listening on 127.0.0.1:49328
+1515235734323	mozrunner::runner	INFO	Running command: "E:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MY\\AppData\\Local\\Temp\\rust_mozprofile.rnQdhUvXlrv9"
+1515235738320	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[11992, Chrome_ChildThread] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[11992, Chrome_ChildThread] WARNING: Unable to create pipe named "11772.0.49147836\2032745670" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFFB,name=???) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3B0018,name=PGPU::Msg_InitCrashReporter) Channel error: cannot send/recv
+
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Compositors might be mixed (1,3)
+[Child 12096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515235755771	Marionette	INFO	Listening on port 49337
+1515235758484	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Could not get a DXGI adapter
+1515235761152	Marionette	DEBUG	Register listener.js for window 4294967297
+1515235761810	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515235769178	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515235769179	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515235769770	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515235769869	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515235929728	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515235929742	geckodriver	INFO	Listening on 127.0.0.1:49408
+1515235932742	mozrunner::runner	INFO	Running command: "E:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MY\\AppData\\Local\\Temp\\rust_mozprofile.h6PdmCGxf28e"
+1515235934789	Marionette	INFO	Enabled via --marionette
+1515235938999	Marionette	INFO	Listening on port 49416
+1515235940091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515235940212	Marionette	DEBUG	Register listener.js for window 4294967297
+1515235940242	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515235961265	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515235961268	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515235961268	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515235961665	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=netTimeout&u=http%3A//132.121.92.224%3A8813/telant&c=UTF-8&f=regular&d=132.121.92.224%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4%E8%BF%87%E9%95%BF%E3%80%82"
+JavaScript warning: http://132.121.92.224:8813/cas/gd-resource/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515235983630	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515235983645	geckodriver	INFO	Listening on 127.0.0.1:49469
+1515235986721	mozrunner::runner	INFO	Running command: "E:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MY\\AppData\\Local\\Temp\\rust_mozprofile.AJyVTb2Xw4Ye"
+1515235987848	Marionette	INFO	Enabled via --marionette
+[Child 12972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515235992379	Marionette	INFO	Listening on port 49477
+1515235992467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515235992598	Marionette	DEBUG	Register listener.js for window 4294967297
+1515235992674	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515235992923	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515235992924	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://132.121.92.224:8813/cas/gd-resource/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515235993866	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515235994749	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515235994985	Marionette	DEBUG	Received DOM event "beforeunload" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515235995948	Marionette	DEBUG	Received DOM event "pagehide" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515235995949	Marionette	DEBUG	Received DOM event "unload" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515235995966	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/telant/page/login.jsp?ticket=ST-220645-zlmPXsIKf9ExuLVyy6E1-sso.ccssoft.com"
+1515235995977	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/telant/page/login.jsp?ticket=ST-220645-zlmPXsIKf9ExuLVyy6E1-sso.ccssoft.com"
+1515235997393	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+JavaScript warning: http://132.121.92.224:8813/telant/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515236000343	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236000460	Marionette	DEBUG	Received DOM event "beforeunload" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236000657	Marionette	DEBUG	Received DOM event "pagehide" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236000694	Marionette	DEBUG	Received DOM event "unload" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236000712	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515236000714	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515236000717	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515236000807	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/BundleSmart/Main.html?userToken=4386995106"
+1515236000814	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/BundleSmart/Main.html?userToken=4386995106"
+1515236228612	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515236228628	geckodriver	INFO	Listening on 127.0.0.1:49938
+1515236231698	mozrunner::runner	INFO	Running command: "E:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MY\\AppData\\Local\\Temp\\rust_mozprofile.19pBMFa7Lj8d"
+1515236233524	Marionette	INFO	Enabled via --marionette
+[Child 11180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515236239140	Marionette	INFO	Listening on port 49946
+1515236239542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515236239695	Marionette	DEBUG	Register listener.js for window 4294967297
+1515236239736	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515236240115	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515236240116	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://132.121.92.224:8813/cas/gd-resource/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515236241749	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236241950	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236291638	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515236291652	geckodriver	INFO	Listening on 127.0.0.1:57934
+1515236294759	mozrunner::runner	INFO	Running command: "E:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MY\\AppData\\Local\\Temp\\rust_mozprofile.Tp72zqaw3GAi"
+1515236296623	Marionette	INFO	Enabled via --marionette
+[Child 6048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515236301131	Marionette	INFO	Listening on port 61785
+1515236302113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515236302228	Marionette	DEBUG	Register listener.js for window 4294967297
+1515236302253	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515236302590	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515236302591	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://132.121.92.224:8813/cas/gd-resource/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515236304139	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236304361	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236304632	Marionette	DEBUG	Received DOM event "beforeunload" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236305381	Marionette	DEBUG	Received DOM event "pagehide" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236305382	Marionette	DEBUG	Received DOM event "unload" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236305400	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/telant/page/login.jsp?ticket=ST-220646-tBNEKmPl0KMt4eioR6Y3-sso.ccssoft.com"
+1515236305407	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/telant/page/login.jsp?ticket=ST-220646-tBNEKmPl0KMt4eioR6Y3-sso.ccssoft.com"
+1515236306936	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+JavaScript warning: http://132.121.92.224:8813/telant/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515236309683	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236309804	Marionette	DEBUG	Received DOM event "beforeunload" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236310030	Marionette	DEBUG	Received DOM event "pagehide" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236310063	Marionette	DEBUG	Received DOM event "unload" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236310072	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1515236310073	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515236310075	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515236310201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/BundleSmart/Main.html?userToken=4386995106"
+1515236310209	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/BundleSmart/Main.html?userToken=4386995106"
+1515236352633	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515236352647	geckodriver	INFO	Listening on 127.0.0.1:61823
+1515236355722	mozrunner::runner	INFO	Running command: "E:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MY\\AppData\\Local\\Temp\\rust_mozprofile.rNK9vAU1w2rM"
+1515236357796	Marionette	INFO	Enabled via --marionette
+[Child 12068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515236362059	Marionette	INFO	Listening on port 61831
+1515236363076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515236363184	Marionette	DEBUG	Register listener.js for window 4294967297
+1515236363212	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515236363360	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515236363361	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://132.121.92.224:8813/cas/gd-resource/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515236364493	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236365167	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236365377	Marionette	DEBUG	Received DOM event "beforeunload" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236366298	Marionette	DEBUG	Received DOM event "pagehide" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236366299	Marionette	DEBUG	Received DOM event "unload" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236366316	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/telant/page/login.jsp?ticket=ST-220648-YgIdGggIrS4uynb2sRic-sso.ccssoft.com"
+1515236366327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/telant/page/login.jsp?ticket=ST-220648-YgIdGggIrS4uynb2sRic-sso.ccssoft.com"
+JavaScript error: http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7, line 217: TypeError: view.get(...) is undefined
+1515236367733	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+JavaScript warning: http://132.121.92.224:8813/telant/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515236370388	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236370444	Marionette	DEBUG	Received DOM event "beforeunload" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236370579	Marionette	DEBUG	Received DOM event "pagehide" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236370618	Marionette	DEBUG	Received DOM event "unload" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236370630	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1515236370632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515236370634	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515236370719	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/BundleSmart/Main.html?userToken=4386995106"
+1515236370728	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/BundleSmart/Main.html?userToken=4386995106"
+JavaScript error: http://132.121.92.224:8813/BundleSmart/Main.html?userToken=4386995106, line 439: TypeError: window.event is undefined
+1515236475274	Marionette	DEBUG	Register listener.js for window 4294967314
+1515236475427	Marionette	DEBUG	Register listener.js for window 4294967316
+JavaScript error: http://132.121.92.224:8813/BundleSmart/Main.html?userToken=4386995106, line 439: TypeError: window.event is undefined
+1515236851412	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515236851428	geckodriver	INFO	Listening on 127.0.0.1:52383
+1515236854553	mozrunner::runner	INFO	Running command: "E:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MY\\AppData\\Local\\Temp\\rust_mozprofile.8SWWFVyg56jr"
+1515236855702	Marionette	INFO	Enabled via --marionette
+[Child 1440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515236863755	Marionette	INFO	Listening on port 52391
+1515236863991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515236864097	Marionette	DEBUG	Register listener.js for window 4294967297
+1515236864136	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515236865759	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515236865759	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://132.121.92.224:8813/cas/gd-resource/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515236867031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236867534	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236867761	Marionette	DEBUG	Received DOM event "beforeunload" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236870641	Marionette	DEBUG	Received DOM event "pagehide" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236870642	Marionette	DEBUG	Received DOM event "unload" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515236870661	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/telant/page/login.jsp?ticket=ST-220665-OKSsx76GhsPAAKMrEMgQ-sso.ccssoft.com"
+1515236870676	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/telant/page/login.jsp?ticket=ST-220665-OKSsx76GhsPAAKMrEMgQ-sso.ccssoft.com"
+JavaScript error: http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7, line 217: TypeError: view.get(...) is undefined
+1515236872109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+JavaScript warning: http://132.121.92.224:8813/telant/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515236875102	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236875177	Marionette	DEBUG	Received DOM event "beforeunload" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236875328	Marionette	DEBUG	Received DOM event "pagehide" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236875362	Marionette	DEBUG	Received DOM event "unload" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515236875375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1515236875376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515236875378	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515236875471	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/BundleSmart/Main.html?userToken=4386995106"
+1515236875478	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/BundleSmart/Main.html?userToken=4386995106"
+1515236895975	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1515236895988	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1515236895993	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1515315228006	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515315228052	geckodriver	INFO	Listening on 127.0.0.1:50979
+1515315231320	mozrunner::runner	INFO	Running command: "E:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MY\\AppData\\Local\\Temp\\rust_mozprofile.FIaTocPsg2bI"
+1515315234821	Marionette	INFO	Enabled via --marionette
+1515315244728	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515315244743	geckodriver	INFO	Listening on 127.0.0.1:50995
+1515315247911	mozrunner::runner	INFO	Running command: "E:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MY\\AppData\\Local\\Temp\\rust_mozprofile.clYzmuDuGYk3"
+1515315249975	Marionette	INFO	Enabled via --marionette
+[Child 9736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515315260607	Marionette	INFO	Listening on port 51004
+1515315262504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515315262674	Marionette	DEBUG	Register listener.js for window 4294967297
+1515315262876	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515315276439	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515315276440	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515315279499	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://get2.adobe.com/cn/flashplayer/"
+1515315281336	Marionette	DEBUG	Received DOM event "pageshow" for "https://get2.adobe.com/cn/flashplayer/"
+1515315310676	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1515315539821	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515315539835	geckodriver	INFO	Listening on 127.0.0.1:51266
+1515315542943	mozrunner::runner	INFO	Running command: "E:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MY\\AppData\\Local\\Temp\\rust_mozprofile.IktjNoBmHvBB"
+1515315545012	Marionette	INFO	Enabled via --marionette
+1515315549635	Marionette	INFO	Listening on port 51278
+1515315550304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515315550447	Marionette	DEBUG	Register listener.js for window 4294967297
+1515315550472	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515315550730	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515315550731	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://132.121.92.224:8813/cas/gd-resource/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515315552196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515315552501	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515315552742	Marionette	DEBUG	Received DOM event "beforeunload" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515315553594	Marionette	DEBUG	Received DOM event "pagehide" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515315553596	Marionette	DEBUG	Received DOM event "unload" for "http://132.121.92.224:8813/cas/login?service=http%3A%2F%2F132.121.92.224%3A8813%2Ftelant%2Fpage%2Flogin.jsp"
+1515315553631	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/telant/page/login.jsp?ticket=ST-226581-hd7ILuxD2yaomaeebPTZ-sso.ccssoft.com"
+1515315553646	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/telant/page/login.jsp?ticket=ST-226581-hd7ILuxD2yaomaeebPTZ-sso.ccssoft.com"
+JavaScript error: http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7, line 217: TypeError: view.get(...) is undefined
+1515315555073	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+JavaScript warning: http://132.121.92.224:8813/telant/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515315557794	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515315557903	Marionette	DEBUG	Received DOM event "beforeunload" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515315558121	Marionette	DEBUG	Received DOM event "pagehide" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515315558151	Marionette	DEBUG	Received DOM event "unload" for "http://132.121.92.224:8813/telant/com.ccssoft.platform.security.client.web.view.SearchMainView.d7"
+1515315558162	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1515315558163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515315558165	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515315558262	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://132.121.92.224:8813/BundleSmart/Main.html?userToken=4386995106"
+1515315558269	Marionette	DEBUG	Received DOM event "pageshow" for "http://132.121.92.224:8813/BundleSmart/Main.html?userToken=4386995106"
+JavaScript error: http://132.121.92.224:8813/BundleSmart/Main.html?userToken=4386995106, line 439: TypeError: window.event is undefined
+[Parent 9000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515316163944	geckodriver::marionette	ERROR	Failed to kill browser process
